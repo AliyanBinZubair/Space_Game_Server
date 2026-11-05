@@ -1,0 +1,5 @@
+.space_game_server/
+client.exe
+scores.db
+__pycache__/
+*pyc  
