@@ -2,7 +2,7 @@
 
 A top-down space shooting game made with Pygame, where up to four players fly in the same arena and fight off waves of enemy ships together. The game client runs on your own computer and connects to a small WebSocket server hosted on Render.
 
-![Screenshot of the game](screenshot.png)
+![Screenshot of the game](image.png)
 
 **Download (Windows):** see the [Releases](../../releases) page, then run `client.exe`.
 
