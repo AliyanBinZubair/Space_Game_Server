@@ -1,5 +1,12 @@
 .space_game_server/
-client.exe
 scores.db
 __pycache__/
 *pyc  
+client.py
+icon.ico
+client.spec
+sounds/
+kenney_space-shooter-extension/
+images/
+dist/
+build/
